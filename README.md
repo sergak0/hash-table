@@ -10,8 +10,9 @@ When inserting a new key the algorithm moves the rich in favor of the
 poor (“takes from the rich and gives to the poor”), hence the name Robin Hood hashing.
 
 ## Run code
-* To make sure that the programm passes all unit tests you can run [tester.cpp](tester.cpp) file
+* Main file with hash table is [hash_map.h](hash_map.h)
 * Usage example you can find in [main.cpp](main.cpp) file
+* To make sure that the programm passes all unit tests you can run [tester.cpp](tester.cpp) file
 
 ## Supported operations
 Full description of the problem that this realization of hash table solve and all supported opearations you can find in [statement.pdf](statement.pdf)
