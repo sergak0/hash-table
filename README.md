@@ -1,5 +1,5 @@
 # Robin Hood hash table
-In this repository you can find C++ realization of open addressing hash table, which uses Robin Hood optimization.
+In this repository you can find C++ realization of open addressing hash table, which uses Robin Hood optimization. 
 
 ## Key Idea of Robin Hood optimization
 The algorithm is based on the notion of probe sequence lengths (PSL). The PSL of a key is the number of probes required to find the key during lookup.
